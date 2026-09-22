@@ -14,7 +14,7 @@ Focus areas:
 - Power BI dashboard
 - Business insights and recommendations
 
-[View project]https://github.com/BewigAlejo/Ollist-Data-Analysis
+[View project](https://github.com/BewigAlejo/Ollist-Data-Analysis)
 
 ## Instacart Market Basket Analysis
 
