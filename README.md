@@ -15,3 +15,26 @@ Focus areas:
 - Business insights and recommendations
 
 [View project]https://github.com/BewigAlejo/Ollist-Data-Analysis
+
+## Instacart Market Basket Analysis
+
+End-to-end data analytics project using the Instacart Market Basket Analysis dataset to study customer purchasing behavior, product reorders and cross-selling opportunities.
+
+Main business question:
+
+**Which products and categories drive repeat purchases, and which product combinations show the strongest cross-selling potential?**
+
+Focus areas:
+
+- Data profiling and quality validation
+- Relational data modeling and joins
+- Customer reorder behavior
+- Product and category performance
+- Market basket analysis and product associations
+- SQL + pandas analysis
+- Power BI dashboard
+- Business insights and cross-sell recommendations
+
+**Status:** In progress
+
+[View project](https://github.com/BewigAlejo/Instacart-Market-Basket-Analysis)
